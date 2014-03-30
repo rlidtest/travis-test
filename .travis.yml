@@ -4,6 +4,6 @@ node_js:
   - "0.10"
 
 env:
-  - secure: T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=
+  - secure: iTz/UJdBVy6MIIT0KXSz4BuwvIMzbl99s4SVpezzJA43ATEgWU9sDIWX6WM3/aCZYlIF2fE1AiprhWPFIrO2g+WU1+MOJ+KtrOyJOkzGTnBboSJgLY5111a00hVy6ClvP1px4pv3L1qgrqPd9sa2kcmXGmbCTiQJ1Y75bwes+cc=
 
 after_script: node test.js travis_after
