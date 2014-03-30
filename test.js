@@ -1,6 +1,6 @@
 
-if (process.argv[1] === 'travis_after') {
-	console.log(process.env.hello)
+if (process.argv[2] === 'travis_after') {
+	return console.log(process.env.hello)
 }
 
 module.exports = function(cb) {
