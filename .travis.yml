@@ -6,4 +6,4 @@ node_js:
 env:
   - secure: T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=
 
-after_script: echo 'test test test'
+after_script: node test.js travis_after

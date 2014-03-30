@@ -1,6 +1,9 @@
 
+if (process.argv[1] === 'travis_after') {
+	console.log(process.env.hello)
+}
+
 module.exports = function(cb) {
-	console.log(process.env)
 	setTimeout(function() {
 		cb('done!...')
 	}, 88)
