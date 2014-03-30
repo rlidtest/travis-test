@@ -1,7 +1,7 @@
 
 module.exports = function(cb) {
 	setTimeout(function() {
-		cb('done!')
+		cb('done!...')
 	}, 88)
 }
 
