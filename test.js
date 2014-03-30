@@ -2,7 +2,7 @@
 module.exports = function(cb) {
 	setTimeout(function() {
 		cb('done!')
-	}, 77)
+	}, 88)
 }
 
 x = process.hrtime()
