@@ -4,5 +4,4 @@ node_js:
   - "0.10"
 
 env:
-  hello:
-    secure: T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=
+  - secure: T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=T/3LxZoABI7ndJw8AMEEQ1Nbey2y0Jowoij6vcxmpB12VaOiP5gM18MAPayiHAxdjbAbIDdhKOJPh6boNxcvoYWxBjmYPRtKiKAlOAeFI8oVYcEjZ5ZMTCZhCO/XCqQPA/Py+YeMIlSpx/Sl/kOblodqp1nh0ml6vsUMJ/2h6Ug=
