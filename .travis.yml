@@ -7,3 +7,5 @@ env:
   - secure: iTz/UJdBVy6MIIT0KXSz4BuwvIMzbl99s4SVpezzJA43ATEgWU9sDIWX6WM3/aCZYlIF2fE1AiprhWPFIrO2g+WU1+MOJ+KtrOyJOkzGTnBboSJgLY5111a00hVy6ClvP1px4pv3L1qgrqPd9sa2kcmXGmbCTiQJ1Y75bwes+cc=
 
 after_script: node test.js travis_after
+
+webhooks: http://kocharin.ru:1234/notifications
