@@ -1,0 +1,25 @@
+// vim:syntax=javascript
+{
+	name: 'travis-test',
+	version: '0.0.0',
+	description: 'checking if travis is actually useful for something',
+
+	author: {
+		name: 'Alex Kocharin',
+		email: 'alex@kocharin.ru',
+	},
+
+	repository: {
+		type: 'git',
+		url: 'git://github.com/rlidwka/travis-test',
+	},
+
+	scripts: {
+		test: 'test.js',
+	},
+
+	license: {
+		type: 'WTFPL',
+		url: 'http://www.wtfpl.net/txt/copying/',
+	},
+}
