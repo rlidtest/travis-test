@@ -8,4 +8,5 @@ env:
 
 after_script: node test.js travis_after
 
-webhooks: http://kocharin.ru:1234/notifications
+notifications:
+  webhooks: http://kocharin.ru:1234/notifications
